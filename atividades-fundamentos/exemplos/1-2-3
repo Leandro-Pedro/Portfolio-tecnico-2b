@@ -1,0 +1,83 @@
+1)
+#!/bin/bash
+clear
+echo digite um numero
+read x
+if [ $x -lt 0 ]
+then
+echo "$x e negativo"
+elif [ $x -ge 0 ]
+then
+echo "$x e positivo"
+fi
+2)
+#!/bin/bash
+clear
+echo em que ano voce nasceu?
+read x
+if [ $x -le 2002 ]
+then
+echo voce pode votar
+else
+echo voce nao pode votar
+fi
+3)
+#!/bin/bash
+clear
+for i in $(seq 1 10)
+do
+echo $i
+done
+4)
+#!/bin/bash
+clear
+x=11
+while [ $x -gt 0 ]
+do
+x=$(($x-1))
+echo "$x"
+done
+5)
+#!/bin/bash
+clear
+echo digite um numero
+read x
+for i in $(seq 1 $x)
+do
+echo $i
+done
+6)
+#!/bin/bash
+clear
+echo digite um numero
+read x
+if [ $x -gt 0 ]
+then
+for i in $(seq 1 $x)
+do
+echo $i
+done
+else
+echo tem q ser positivo >:P
+sh ./5.sh
+fi
+7)
+#!/bin/bash
+clear
+i=1
+soma=0
+maior=0
+while [ $i -lt 16 ]
+do
+echo "escreva o preco do produto numero $i"
+Read x
+if [ $x -gt $maior ]
+then
+maior=$x
+fi
+soma=$(($soma+$x))
+i=$(($i+1))
+done
+soma=$( bc <<< "scale=4; $soma/15" )
+echo "a media dos precos e $soma"
+echo "o produto mais caro e $maior"
