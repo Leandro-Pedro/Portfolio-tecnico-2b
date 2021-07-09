@@ -6,3 +6,7 @@ Criado para guardar os códigos e trabalhos feitas em 2021, pelo curso de desenv
 * Obtendo vários conhecimentos interessantes
 -----------------------------------------------------------------------
 
+# ATUALIZADO 08/07/2021
+
+* Aprendendo a usar o git bash
+* Adorando aprender as aulas de t.i	
