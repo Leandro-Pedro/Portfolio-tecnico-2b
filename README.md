@@ -9,4 +9,14 @@
 # ATUALIZADO 08/07/2021
 
 * Aprendendo a usar o git bash
-* Adorando aprender as aulas de t.i	
+* Adorando aprender as aulas de t.i
+-----------------------------------------------------------------------
+
+## Lógica Computacional
+* [exemplos legais](Portfolio-tecnico-2b/logica_computacional/exemplos_java)
+
+## Fundamentos de Ti
+
+* [modificações e exemplos](Portfolio-tecnico-2b/atividades-fundamentos/exemplos)
+
+
