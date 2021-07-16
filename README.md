@@ -18,5 +18,6 @@
 ## Fundamentos de Ti
 
 * [modificações e exemplos](Portfolio-tecnico-2b/atividades-fundamentos/exemplos)
-
+-----------------------------------------------------------------------
+* [link da prova](Portfolio-tecnico-2b/prova)
 
