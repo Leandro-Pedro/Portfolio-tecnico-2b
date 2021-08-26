@@ -37,9 +37,9 @@
 
 * [link projeto 1](/logica_computacional/exemplos_java/exemplo1.java)
 
-* [link projeto 1](/logica_computacional/exemplos_java/exemplo2.java)
+* [link projeto 2](/logica_computacional/exemplos_java/exemplo2.java)
 
-* [link projeto 1](/logica_computacional/exemplos_java/exemplo2.java)
+* [link projeto 3](/logica_computacional/exemplos_java/exemplo2.java)
 
 -----------------------------------------------------------------------
 
