@@ -13,13 +13,13 @@
 -----------------------------------------------------------------------
 
 ## Lógica Computacional
-* [exemplos legais](Portfolio-tecnico-2b/logica_computacional/exemplos_java)
+* [exemplos legais](/logica_computacional/exemplos_java)
 
 ## Fundamentos de Ti
 
-* [modificações e exemplos](Portfolio-tecnico-2b/atividades-fundamentos/exemplos)
+* [modificações e exemplos](/atividades-fundamentos/exemplos)
 -----------------------------------------------------------------------
-* [link da prova](Portfolio-tecnico-2b/prova)
+* [link da prova](/prova)
 
 -----------------------------------------------------------------------
 ## Links Portfolio
