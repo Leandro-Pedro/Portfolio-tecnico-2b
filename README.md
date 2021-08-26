@@ -12,19 +12,19 @@
 * Adorando aprender as aulas de t.i
 -----------------------------------------------------------------------
 
-## Lógica Computacional
+# Lógica Computacional
 * [exemplos legais](/logica_computacional/exemplos_java)
 
-## Fundamentos de Ti
+# Fundamentos de Ti
 
 * [modificações e exemplos](/atividades-fundamentos/exemplos)
 -----------------------------------------------------------------------
 * [link da prova](/prova)
 
 -----------------------------------------------------------------------
-## Links Portfolio
+# Links Portfolio
 
-* T.i
+## T.i
 
 * [link projeto 1](/atividades-fundamentos/exemplos/exemplo1.sh)
 
@@ -33,7 +33,7 @@
 * [link projeto 3](/atividades-fundamentos/exemplos/exemplo3.sh)
 
 -----------------------------------------------------------------------
-* Logica Computacional
+## Logica Computacional
 
 * [link projeto 1](/logica_computacional/exemplos_java/exemplo1.java)
 
