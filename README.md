@@ -21,3 +21,16 @@
 -----------------------------------------------------------------------
 * [link da prova](Portfolio-tecnico-2b/prova)
 
+-----------------------------------------------------------------------
+## Links Portfolio
+
+* T.i
+
+* [link projeto 1](/Portfolio-tecnico-2b/atividades-fundamentos/exemplos/exemplo1.sh)
+
+* [link projeto 2](/Portfolio-tecnico-2b/atividades-fundamentos/exemplos/exemplo2.sh)
+
+* [link projeto 3](/Portfolio-tecnico-2b/atividades-fundamentos/exemplos/exemplo3.sh)
+
+
+
