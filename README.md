@@ -46,4 +46,3 @@
 # Portfolio-tecnico-3b
 
 ## Programacao-de-aplicativos
-
