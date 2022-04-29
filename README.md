@@ -46,7 +46,7 @@
 # Portfolio-tecnico-3b
 
 ## Programacao-de-aplicativos
-* [Camera](Portfolio-tecnico-3b-/Programação-de-aplicativos/Camera)
+* [Camera](https://github.com/Leandro-Pedro/Portfolio-tecnico-3b-/tree/main/programacao-de-aplicativo)
 -----------------------------------------------------------------------
 ## Banco-de-dados
 * [trabalhos](https://github.com/Leandro-Pedro/Portfolio-tecnico-3b-/tree/main/Banco_de_dados)
