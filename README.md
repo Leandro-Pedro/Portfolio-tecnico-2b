@@ -49,4 +49,4 @@
 [Camera](Portfolio-tecnico-3b-/Programação-de-aplicativos/Camera)
 -----------------------------------------------------------------------
 ## Banco-de-dados
-[trabalhos](Portfolio-tecnico-3b-/Banco_de_dados/)
+[trabalhos](https://github.com/Leandro-Pedro/Portfolio-tecnico-3b-/tree/main/Banco_de_dados)
