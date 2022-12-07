@@ -1,6 +1,6 @@
-TESTE DE SISTEMAS MATRIZ 
+## TESTE DE SISTEMAS MATRIZ 
 🦦
-Plano de teste Matriz
+##Plano de teste Matriz
 
 
 Será testado em java o seguinte sistema na qual criamos para calcular a determinante da matriz, nesse teste incluirá testar alguns números e ver se tudo está correndo bem e testar alguns exemplos de matrizes, esse app foi feito no Android Studio na versão API 27, ele foi projetado para ajudar de uma maneira mais rápida quem não souber como fazer uma matriz.
@@ -15,7 +15,7 @@ A abordagem de teste será feita pelo conceito matemático que escolhemos fazer 
 
 
 
-Especificação de Casos de Teste
+# Especificação de Casos de Teste
 
 
 
@@ -25,7 +25,7 @@ Após dar a entrada dos números e apertar no botão calcular, o retorno será a
 Restrição: Não botar letras, letras com números, colocar todos os números.
 
 
-Especificação de Procedimento de Teste
+# Especificação de Procedimento de Teste
 
 Primeiro passo: Colocar todos os números devidos da matriz que você escolher.
 Segundo passo: Após colocar os devidos números você irá clicar no botão e irá aparecer logo abaixo o resultado da determinante.
