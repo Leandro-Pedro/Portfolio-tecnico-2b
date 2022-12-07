@@ -53,4 +53,4 @@
 
 -----------------------------------------------------------------------
 ## Teste-de-sistemas
-* [Trabalhos](https://github.com/Leandro-Pedro/Portfolio-tecnico-3b-/tree/main/Teste_de_sistemas)
+* [Trabalhos](https://github.com/Leandro-Pedro/Portfolio-tecnico-3b-/tree/main/teste_de_sistemas)
