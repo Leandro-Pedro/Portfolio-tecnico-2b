@@ -1,0 +1,60 @@
+TESTE DE SISTEMAS MATRIZ 
+🦦
+Plano de teste Matriz
+
+
+Será testado em java o seguinte sistema na qual criamos para calcular a determinante da matriz, nesse teste incluirá testar alguns números e ver se tudo está correndo bem e testar alguns exemplos de matrizes, esse app foi feito no Android Studio na versão API 27, ele foi projetado para ajudar de uma maneira mais rápida quem não souber como fazer uma matriz.
+
+
+Especificação do projeto de matriz
+
+
+A abordagem de teste será feita pelo conceito matemático que escolhemos fazer no app, ou seja, a matriz, que é um conjunto de dados dividido por linhas e colunas, para calcular uma matriz precisa ser feita a determinante que foi a proposta do app pelo 3B, que é uma das características, um dos requisitos funcionais é as linhas para digitar apenas os números, o botão de calcular que após obter todos os números ele irá calcular, como requisitos não funcionais ele será facíl de usar, mediante de saber sobre um pouco  do conhecimento matemático.
+
+
+
+
+
+Especificação de Casos de Teste
+
+
+
+Itens que serão testados:  text tipo number para colocar os números.
+Botão calcular.
+Após dar a entrada dos números e apertar no botão calcular, o retorno será a determinante da matriz.
+Restrição: Não botar letras, letras com números, colocar todos os números.
+
+
+Especificação de Procedimento de Teste
+
+Primeiro passo: Colocar todos os números devidos da matriz que você escolher.
+Segundo passo: Após colocar os devidos números você irá clicar no botão e irá aparecer logo abaixo o resultado da determinante.
+
+
+
+Relatório de Status de Teste
+
+Primeiro teste realizado dia 28/09/2022 às 08:47 por Leandro: tudo certo ao app, o que poderia ter seria um aviso sobre como funciona e também quando esquecer de algum número ele deveria avisar e não crashar o app.
+
+Log de Teste
+
+Dia 28/09 às 08:47 - Tudo certo com o app, só mais alguns ajustes técnicos, entradas e saídas tudo ok.
+Dia 28/09 às 09:15 - Teste finalizado com sucesso.
+
+
+
+Relatório de Incidente de Testes
+
+Um dos erros vistos foi quando esqueci um número e o app para de funcionar ao invés de só mostrar uma mensagem dizendo que faltou um número.
+
+
+
+Relatório Sumário dos Testes
+
+Plano de teste: explicando sobre o que é o app.
+Especificação do projeto de matriz: específica mais sobre o app e mostra suas características.
+Especificação de casos teste: fala sobre os itens que serão testados no app, a entradas e saídas do código, o que ele irá fazer e etc…
+Especificação de procedimento teste: especifica passo a passo sobre o teste feito no app.
+Relatório de status de teste: Vai mostrar como foi realizado o teste e se teve algum erro ou se falta algum ajuste técnico.
+Log de Teste: Irá falar sobre o histórico de testes feitos ao decorrer do app.
+Relatório de Incidente de Testes: Mostra os erros que aconteceram ao app que podem ser corrigidos ou sugeridos alguns ajustes.
